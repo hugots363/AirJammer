@@ -1,6 +1,6 @@
 # AirJammer
 
-AirJammer it's a shell script designed to overflow a buffer using packet injection. To use it you need a network card capable of packet injection and have the AP in range.
+AirJammer it's a shell script designed to overflow an AP using packet injection. To use it you need a network card capable of packet injection and have the AP in range. The attack uses Wifi technology.
 
 AirJammer is provided "as is" without warranty of any kind, either express or implied. Use at your own risk and be sure of attack only AP with express authorization of the AP owner.
 ## Installation
