@@ -23,7 +23,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Acknowledgements
-Thanks to FTPapi for his support.
+Thanks to hMihaiDavid for his support.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
